@@ -1,0 +1,33 @@
+[
+  {
+    "book":"The Lord of the Rings: The Fellowship of the Ring",
+     "description":"The Lord of the Rings: The Fellowship of the Ring is a 2001 epic high fantasy adventure film directed by Peter Jackson based on the first volume of J. R. R. Tolkien's The Lord of the Rings (1954–1955).[4][5][6] It is the first instalment in The Lord of the Rings series, and was followed by The Two Towers (2002) and The Return of the King (2003), based on the second and third volumes of The Lord of the Rings.",
+     "image":"lordone.jpg"
+  },
+  {
+    "book":"The Lord of the Rings: The Two Towers",
+     "description":"The Lord of the Rings: The Two Towers is a 2002 epic high fantasy adventure film[8][9] directed by Peter Jackson and based on the second volume of J. R. R. Tolkien's novel The Lord of the Rings. It is the second installment in The Lord of the Rings film series, preceded by The Fellowship of the Ring (2001) and concluding with The Return of the King (2003).",
+     "image":"lordtwo.jpg"
+  },
+  {
+    "book":"The Lord of the Rings: The Return of the King",
+     "description":"The Lord of the Rings: The Return of the King is a 2003 epic high fantasy action adventure film produced, written and directed by Peter Jackson based on the second and third volumes of J. R. R. Tolkien's The Lord of the Rings.[7][8] It is the third and final installment in The Lord of the Rings trilogy, following The Fellowship of the Ring (2001) and The Two Towers (2002), preceding The Hobbit film trilogy (2012–14).",
+     "image":"lordthree.jpg"
+  },
+  {
+    "book":"The Hobbit: An Unexpected Journey",
+     "description":"The Hobbit: An Unexpected Journey is a 2012 epic high fantasy adventure film directed by Peter Jackson. It is the first installment in a three-part film adaptation based on the 1937 novel The Hobbit by J. R. R. Tolkien. It is followed by The Desolation of Smaug (2013) and The Battle of the Five Armies (2014), and together they act as a prequel to Jackson's The Lord of the Rings film trilogy. The film's screenplay was written by Peter Jackson, his longtime collaborators Fran Walsh and Philippa Boyens, and Guillermo del Toro. ",
+    "image":"hobbitone.jpg"
+  },
+  {
+    "book":"The Hobbit: The Desolation of Smaug",
+     "description":"The Hobbit: The Desolation of Smaug is a 2013 epic high-fantasy adventure film directed by Peter Jackson and produced by WingNut Films in collaboration with New Line Cinema and Metro-Goldwyn-Mayer. It was distributed by Warner Bros. Pictures and is the second installment in the three-part film series based on the novel The Hobbit by J. R. R. Tolkien. The film was preceded by An Unexpected Journey (2012) and followed by The Battle of the Five Armies (2014); together they operate as a prequel to Jackson's The Lord of the Rings film trilogy.",
+     "image":"hobbittwo.jpg"
+  },
+  {
+    "book":"The Hobbit: The Battle of the Five Armies ",
+     "description":"The Hobbit: The Battle of the Five Armies is a 2014 epic high fantasy action film directed by Peter Jackson and written by Jackson, Fran Walsh, Philippa Boyens, and Guillermo del Toro. It is the third and final installment in Peter Jackson's three-part film adaptation based on the novel The Hobbit by J. R. R. Tolkien, following An Unexpected Journey (2012) and The Desolation of Smaug (2013), and together they act as a prequel to Jackson's The Lord of the Rings film trilogy. It was produced by New Line Cinema, Metro-Goldwyn-Mayer and WingNut Films, and distributed by Warner Bros. Pictures. ",
+     "image":"hobbitthree.jpg"
+  }
+
+]

@@ -1,0 +1,53 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+body{
+  font-family: cursive;
+  background-color: goldenrod!important;
+    opacity: .9;
+
+}
+
+#indhbs{
+  background-color:goldenrod!important;
+}
+
+body h1{
+  padding-top: 50px;
+  color: white;
+  font-family: cursive;;
+}
+#bookCover{
+  height: 500px;
+  max-width: 100%;
+  background-image: url("lord.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+
+#bookCover ul{
+  background-color: black !important;
+}
+#bookCover ul li a{
+  color: grey;
+}
+
+.bookList{
+  background-color: goldenrod!important;
+}
+.bookList .row img{
+  width: 100%;
+  height: 300px;
+  padding-right: 22px;
+  margin-left: 0px;
+  padding-left: 0px;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.bookList .row img:hover{
+ opacity: .7;
+ border-left: 5px solid green;
+}
